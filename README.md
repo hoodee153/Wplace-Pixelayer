@@ -88,7 +88,7 @@ You'll first need a browser extension like **Tampermonkey**.
 
 Once Tampermonkey is installed, click the link below to install the script:
 
-➡️ **[Click here to install Wplace Pixelayer v1.3](https://github.com/hoodee153/Wplace-Pixelayer/wplace-pixelayer.user.js)** ⬅️
+➡️ **[Click here to install Wplace Pixelayer v1.3](https://github.com/hoodee153/Wplace-Pixelayer/blob/main/wplace-pixelayer.user.js)** ⬅️
 
 Learn More How to install the script. ➡️ [Wplace Pixelayer](https://wplacepaint.com/pixelayer/)
 
